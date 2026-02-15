@@ -1,14 +1,14 @@
-🧠 Cognitive Trace: Neuro-Facial Recognition Analysis
+# 🧠 Cognitive Trace: Neuro-Facial Recognition Analysis
 
 An ethical AI system that estimates the probability of recognition or concealed information using EEG (P300 signals) and facial expression analysis.
 
 ⚠️ This system does NOT detect lies. It only provides probabilistic recognition analysis.
 
-🚀 Overview
+## 🚀 Overview
 
 Traditional lie detection methods rely on behavioral cues, which can be unreliable.
 
-This project uses a multimodal AI approach:
+## This project uses a multimodal AI approach:
 
 🧠 EEG (P300 signal detection) – detects involuntary recognition
 
@@ -16,7 +16,7 @@ This project uses a multimodal AI approach:
 
 🔗 Fusion Model – combines both for final probability output
 
-⚙️ How It Works
+## ⚙️ How It Works
 
 Present stimulus (neutral / known / test items)
 
@@ -28,11 +28,11 @@ Combine outputs using weighted/Bayesian fusion
 
 Generate final probability score
 
-Example Output:
+## Example Output:
 
 “72% probability of concealed information under stress.”
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Python
 
@@ -46,7 +46,7 @@ NumPy / Pandas
 
 Streamlit (Demo UI)
 
-📊 Datasets
+## 📊 Datasets
 
 BCI Competition (P300 EEG)
 
@@ -54,14 +54,14 @@ Kaggle FER-2013
 
 CK+ Facial Dataset
 
-📌 Key Features
+## 📌 Key Features
 
 ✔️ Non-invasive & ethical
 ✔️ Multimodal fusion approach
 ✔️ Probabilistic output (not lie detection)
 ✔️ Explainable results (ERP plots & facial indicators)
 
-👩‍💻 Team Members & Roles
+## 👩‍💻 Team Members & Roles
 🔹 Jasmine Shafi – Team Lead & System Integration
 
 Designed overall system architecture
@@ -95,6 +95,6 @@ Multimodal performance comparison
 Explainability (ERP plots, heatmaps)
 
 Documentation & presentation
-🎓 Project Summary
+## 🎓 Project Summary
 
 A multimodal AI system that combines brain and facial signals to estimate recognition probability in an ethical, research-focused framework.
