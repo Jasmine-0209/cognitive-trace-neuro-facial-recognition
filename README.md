@@ -62,7 +62,7 @@ CK+ Facial Dataset
 ✔️ Explainable results (ERP plots & facial indicators)
 
 ## 👩‍💻 Team Members & Roles
-🔹 Jasmine Shafi – Team Lead & System Integration
+🔹 Jasmine – Team Lead & System Integration
 
 Designed overall system architecture
 
@@ -72,7 +72,7 @@ Implemented multimodal fusion
 
 Coordinated testing and final demo
 
-🔹 Ahinaya – EEG Module
+🔹 Abinaya – EEG Module
 
 EEG preprocessing (filtering, artifact removal, epoching)
 
@@ -80,7 +80,7 @@ P300 feature extraction
 
 Trained and evaluated EEG model
 
-🔹 Facial Module Developer
+🔹 Rubini priya - Facial Module Developer
 
 Facial dataset preprocessing
 
@@ -88,7 +88,7 @@ Landmark & stress feature extraction
 
 Trained facial expression classifier
 
-🔹 Ruby – Fusion Analysis & Documentation
+🔹 visalini – Fusion Analysis & Documentation
 
 Multimodal performance comparison
 
